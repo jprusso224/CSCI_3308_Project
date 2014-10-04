@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">JohnsApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Effect_1">Effect 1</string>
+    <string name="title_activity_first_effect">FirstEffect</string>
+    <string name="Start">Start</string>
+    <string name="Stop">Stop</string>
+</resources>
